@@ -45,3 +45,5 @@ function countVote(votes) {
 
 let votes = ['A', 'B', 'C', 'C', 'B'];
 countVote(votes);
+votes = [];
+countVote(votes);
